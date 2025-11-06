@@ -1,0 +1,24 @@
+# Backend build files
+/backend/target/
+/backend/build/
+/backend/bin/
+
+# Frontend build files
+/frontend/resume-builder/node_modules/
+/frontend/resume-builder/build/
+
+# IDE specific files
+*.iml
+*.iws
+*.ipr
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
